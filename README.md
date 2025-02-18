@@ -67,13 +67,12 @@ Specializations:
 
 ## 🙋‍♂️ Connect With Me
 
-[<img src="https://skillicons.dev/icons?i=github" />](https://github.com/omunite215)&nbsp;
-[<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/om-patel-401068143/)&nbsp;
-[<img src="https://skillicons.dev/icons?i=instagram" />](https://www.instagram.com/_21omp/)&nbsp;
-[<img src="https://skillicons.dev/icons?i=devto" />](https://portfoliobyom.netlify.app/)
+[<img src="https://skillicons.dev/icons?i=github" />](https://github.com/Vivek7738)&nbsp;
+[<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/vivekvm31/)&nbsp;
+[<img src="https://skillicons.dev/icons?i=instagram" />](https://www.instagram.com/vivekkkkk_2.o/)&nbsp;
 
 ## 🗒️ Authors
-- Om Patel
+- Vivek Dubey
 
 <p align="left">
   <a href="https://skillicons.dev">
