@@ -1,7 +1,7 @@
 # Project 3D - Portfolio
 
 <p align="center">
-  ![Vivek](vivek.png)
+  
 </p>
 
 This was my first project using Vite. Initially made using tutorial of [JavaScipt Mastery](https://youtu.be/0fYi8SGA20k?feature=shared).
